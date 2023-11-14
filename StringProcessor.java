@@ -100,6 +100,8 @@ public class StringProcessor {
         System.out.println("Character Frequency:");
         processor.characterFrequency();
 
+
+        System.out.println("Everyone is fkin dumb");
     }
 }
 
